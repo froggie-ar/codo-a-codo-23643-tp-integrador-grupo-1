@@ -1,0 +1,15 @@
+ header {
+   background: linear-gradient(blue, rgb(105, 53, 103));
+    padding: 30px;
+}
+
+.cod{
+   color: #008cff;
+   font-family:monospace;
+   font-weight: 900;
+   
+}
+.tec{
+   font-weight: 900;
+   font-family:monospace;
+}
